@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.zye.cc/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.admin8.co/
+IDList=
+IconFile=http://www.zye.cc/wp-content/uploads/2014/05/favicon.ico
+IconIndex=1
+HotKey=0

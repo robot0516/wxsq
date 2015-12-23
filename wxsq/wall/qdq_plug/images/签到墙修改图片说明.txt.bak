@@ -1,0 +1,11 @@
+
+
+签到墙修改图片时：
+	修改wall/qdq_plug/images/splatter-mask_1.png
+	   和wall/qdq_plug/images/shine.png
+	不要修改图片尺寸，就按照原本那个图片来。
+	其中splatter-mask_1.png 是用来遮罩的，除了logo以外都需要做成透明的。
+	shine.png 是用来最后的外发光效果，需要在ps自行修改的。
+
+如遇问题请联系微盒技术 淘宝店：http://wxboxcn.taobao.com/
+QQ:790988023
